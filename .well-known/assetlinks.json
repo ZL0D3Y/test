@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "prro", "package_name": "com.vites.prro",
+               "sha256_cert_fingerprints": ["FB:DE:41:6D:B5:C3:CB:D0:F7:79:95:1B:30:97:3C:F8:48:08:B3:10:A1:29:6F:4F:45:B8:BC:B3:EB:96:92:F3"] }
+}]
